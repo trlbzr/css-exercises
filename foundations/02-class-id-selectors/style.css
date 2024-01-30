@@ -1,0 +1,18 @@
+.zero{
+    background-color: rgb(255, 182, 193);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.zero.sp{
+    font-size: 24px;
+}
+
+#one{
+    color: hsl(240, 100%, 50%);
+}
+
+#two{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
