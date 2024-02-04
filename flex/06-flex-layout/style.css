@@ -51,7 +51,6 @@ ul {
   padding-right: 30px;
 }
 
-
 .content{
   margin-top: auto;
   display: flex;
@@ -59,7 +58,6 @@ ul {
   align-items: center;
   gap: 15px;
 }
-
 
 .footer{
   background-color: #eeeeee;
